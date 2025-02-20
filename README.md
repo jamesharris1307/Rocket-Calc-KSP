@@ -1,7 +1,8 @@
 # Rocket Calculator Kerbal Space Program
 
-## Calculations
+---
 
+## Calculations
 ### Fuel Calculations:
 - Amount of fuel needed to achieve Low Kerbin Orbit (LKO).
 - Amount of fuel needed to achieve High Kerbin Orbit (HKO).
